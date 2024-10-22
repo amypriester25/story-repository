@@ -3,11 +3,11 @@
 <map>
     <title>My story- testing</title>
   <topicref href="index.dita"/>
-  <topicref href="introduction.dita"/>
-  <topicref href="the-announcement.dita"/>
-  <topicref href="fairy-godmother.dita"/>
-  <topicref href="the-royal-ball_1.dita"/>
-  <topicref href="the-search.dita"/>
-  <topicref href="the-shoe-fits.dita"/>
-  <topicref href="happily-ever-after.dita"/>
+  <topicref href="chapter-1.dita"/>
+  <topicref href="chapter-2.dita"/>
+  <topicref href="chapter-3.dita"/>
+  <topicref href="chapter-4.dita"/>
+  <topicref href="chapter-5.dita"/>
+  <topicref href="chapter-6.dita"/>
+  <topicref href="chapter-7.dita"/>
 </map>
